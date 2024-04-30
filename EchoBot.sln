@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EchoBot", "EchoBot\EchoBot.csproj", "{002A1F3A-7744-4F68-989E-F0194D31D2B8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OtherEchoBot", "OtherEchoBot\OtherEchoBot.csproj", "{0EAFD985-0494-4B87-8D4D-A1BD51F83685}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{002A1F3A-7744-4F68-989E-F0194D31D2B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002A1F3A-7744-4F68-989E-F0194D31D2B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{002A1F3A-7744-4F68-989E-F0194D31D2B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{002A1F3A-7744-4F68-989E-F0194D31D2B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EAFD985-0494-4B87-8D4D-A1BD51F83685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EAFD985-0494-4B87-8D4D-A1BD51F83685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EAFD985-0494-4B87-8D4D-A1BD51F83685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EAFD985-0494-4B87-8D4D-A1BD51F83685}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8D3A9D9-0C6B-42F5-8634-FC7C2A28B29B}
+	EndGlobalSection
+EndGlobal
